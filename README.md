@@ -14,4 +14,4 @@ if/else statements
 ## demo
 ---
 
-click [here]() to see demo
+click [here](https://almousaz.github.io/simple-image-slider-repo/) to see demo
